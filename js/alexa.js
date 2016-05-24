@@ -22,7 +22,7 @@ $(document).ready(function(){
       playedTimestamps.push(action.timestamp);
       $(".utterance").text(action.voice);
       $(".counter").text((currentIndex+1) + " of " + actions.length);
-      $(voice).attr("src", "/audio/" + action.timestamp + ".wav");
+      $(voice).attr("src", "audio/" + action.timestamp + ".wav");
       voice.play();
     }
   };
