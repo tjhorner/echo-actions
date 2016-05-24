@@ -1,0 +1,34 @@
+body{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  font-family: Roboto, sans-serif;
+}
+
+.goto{
+  color: green;
+  cursor: pointer;
+  position: fixed;
+  top: 5%;
+  font-size: 1.5em;
+  width: 100%;
+  text-align: center;
+  text-align: center;
+}
+
+.counter{
+  position: fixed;
+  bottom: 5%;
+  font-size: 1.5em;
+  width: 100%;
+  text-align: center;
+}
+
+.utterance{
+  width: 100%;
+  height: 100%;
+  font-size: 3em;
+  text-align: center;
+  position: fixed;
+  top: 44%;
+}
