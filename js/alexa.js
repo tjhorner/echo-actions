@@ -6,7 +6,7 @@ $(document).ready(function(){
       playedTimestamps = [],
       paused = false;
 
-  $.getJSON("/actions.json", function(res){
+  $.getJSON("actions.json", function(res){
     actions = res.reverse();
     getAudio(currentIndex);
   });
