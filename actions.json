@@ -1,1406 +1,470 @@
 [
   {
-    "timestamp": 1463875328334,
-    "voice": "alexa ask clear how many hours are left of code day"
-  },
-  {
-    "timestamp": 1463875255481,
-    "voice": "alexa ask clear how many hours are left of code day"
-  },
-  {
-    "timestamp": 1463875201152,
-    "voice": "alexa ask clear how many hours are left of code day"
-  },
-  {
-    "timestamp": 1463875255481,
-    "voice": "alexa ask clear how many hours are left of code day"
-  },
-  {
-    "timestamp": 1463875201152,
-    "voice": "alexa ask clear how many hours are left of code day"
-  },
-  {
-    "timestamp": 1463875096301,
-    "voice": "alexa are you siri"
-  },
-  {
-    "timestamp": 1463875201152,
-    "voice": "alexa ask clear how many hours are left of code day"
-  },
-  {
-    "timestamp": 1463875096301,
-    "voice": "alexa are you siri"
-  },
-  {
-    "timestamp": 1463875073978,
-    "voice": "hey alexa what came first the chicken or the egg"
-  },
-  {
-    "timestamp": 1463875062623,
-    "voice": "alexa surely you can't be serious"
-  },
-  {
-    "timestamp": 1463875096301,
-    "voice": "alexa are you siri"
-  },
-  {
-    "timestamp": 1463875073978,
-    "voice": "hey alexa what came first the chicken or the egg"
-  },
-  {
-    "timestamp": 1463875062623,
-    "voice": "alexa surely you can't be serious"
-  },
-  {
-    "timestamp": 1463875073978,
-    "voice": "hey alexa what came first the chicken or the egg"
-  },
-  {
-    "timestamp": 1463875062623,
-    "voice": "alexa surely you can't be serious"
-  },
-  {
-    "timestamp": 1463875062623,
-    "voice": "alexa surely you can't be serious"
-  },
-  {
-    "timestamp": 1463875014648,
-    "voice": "alexa you're bad"
-  },
-  {
-    "timestamp": 1463875014648,
-    "voice": "alexa you're bad"
-  },
-  {
-    "timestamp": 1463874852207,
-    "voice": "alexa ask clear how many attendees are here"
-  },
-  {
-    "timestamp": 1463874780654,
-    "voice": "how do up"
-  },
-  {
-    "timestamp": 1463874704358,
-    "voice": "alexa tell us a joke"
-  },
-  {
-    "timestamp": 1463874780654,
-    "voice": "how do up"
-  },
-  {
-    "timestamp": 1463874704358,
-    "voice": "alexa tell us a joke"
-  },
-  {
-    "timestamp": 1463874704358,
-    "voice": "alexa tell us a joke"
-  },
-  {
-    "timestamp": 1463874452548,
-    "voice": "play skrillex on spotify"
-  },
-  {
-    "timestamp": 1463874452548,
-    "voice": "play skrillex on spotify"
-  },
-  {
-    "timestamp": 1463874432615,
-    "voice": "how are you doing"
-  },
-  {
-    "timestamp": 1463874432615,
-    "voice": "how are you doing"
-  },
-  {
-    "timestamp": 1463874125855,
-    "voice": "hey alexa no no it's not updated yet"
-  },
-  {
-    "timestamp": 1463873994668,
-    "voice": "alexa tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463873662220,
-    "voice": "alexa what is amazon lambda"
-  },
-  {
-    "timestamp": 1463873654514,
-    "voice": "alexa what is amazon land that i don't know"
-  },
-  {
-    "timestamp": 1463873619363,
-    "voice": "tell t.j. he's really dumb"
-  },
-  {
-    "timestamp": 1463873662220,
-    "voice": "alexa what is amazon lambda"
-  },
-  {
-    "timestamp": 1463873654514,
-    "voice": "alexa what is amazon land that i don't know"
-  },
-  {
-    "timestamp": 1463873619363,
-    "voice": "tell t.j. he's really dumb"
-  },
-  {
-    "timestamp": 1463873152807,
-    "voice": "alexa what's coday"
-  },
-  {
-    "timestamp": 1463873654514,
-    "voice": "alexa what is amazon land that i don't know"
-  },
-  {
-    "timestamp": 1463873619363,
-    "voice": "tell t.j. he's really dumb"
-  },
-  {
-    "timestamp": 1463873152807,
-    "voice": "alexa what's coday"
-  },
-  {
-    "timestamp": 1463873619363,
-    "voice": "tell t.j. he's really dumb"
-  },
-  {
-    "timestamp": 1463873152807,
-    "voice": "alexa what's coday"
-  },
-  {
-    "timestamp": 1463873024844,
-    "voice": "tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463873152807,
-    "voice": "alexa what's coday"
-  },
-  {
-    "timestamp": 1463873024844,
-    "voice": "tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463873024844,
-    "voice": "tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463872998368,
-    "voice": "alexa do yourself back on"
-  },
-  {
-    "timestamp": 1463872998368,
-    "voice": "alexa do yourself back on"
-  },
-  {
-    "timestamp": 1463872797205,
-    "voice": "who is justin bieber"
-  },
-  {
-    "timestamp": 1463872767216,
-    "voice": "alexa who is sean"
-  },
-  {
-    "timestamp": 1463872767216,
-    "voice": "alexa who is sean"
-  },
-  {
-    "timestamp": 1463872757266,
-    "voice": "why are you so bad"
-  },
-  {
-    "timestamp": 1463872749127,
-    "voice": "alexa look up student r and d on wikipedia"
-  },
-  {
-    "timestamp": 1463872732480,
-    "voice": "alexa what is student r and d"
-  },
-  {
-    "timestamp": 1463872649589,
-    "voice": "what is the purpose of life"
-  },
-  {
-    "timestamp": 1463872757266,
-    "voice": "why are you so bad"
-  },
-  {
-    "timestamp": 1463872749127,
-    "voice": "alexa look up student r and d on wikipedia"
-  },
-  {
-    "timestamp": 1463872732480,
-    "voice": "alexa what is student r and d"
-  },
-  {
-    "timestamp": 1463872649589,
-    "voice": "what is the purpose of life"
-  },
-  {
-    "timestamp": 1463872749127,
-    "voice": "alexa look up student r and d on wikipedia"
-  },
-  {
-    "timestamp": 1463872732480,
-    "voice": "alexa what is student r and d"
-  },
-  {
-    "timestamp": 1463872649589,
-    "voice": "what is the purpose of life"
-  },
-  {
-    "timestamp": 1463872603405,
-    "voice": "alexa change the temperature in sides is seventy thousand degrees"
-  },
-  {
-    "timestamp": 1463872732480,
-    "voice": "alexa what is student r and d"
-  },
-  {
-    "timestamp": 1463872649589,
-    "voice": "what is the purpose of life"
-  },
-  {
-    "timestamp": 1463872603405,
-    "voice": "alexa change the temperature in sides is seventy thousand degrees"
-  },
-  {
-    "timestamp": 1463872649589,
-    "voice": "what is the purpose of life"
-  },
-  {
-    "timestamp": 1463872603405,
-    "voice": "alexa change the temperature in sides is seventy thousand degrees"
-  },
-  {
-    "timestamp": 1463872575595,
-    "voice": "alexa what is the purpose of life"
-  },
-  {
-    "timestamp": 1463872561694,
-    "voice": "alexa what is life"
-  },
-  {
-    "timestamp": 1463872603405,
-    "voice": "alexa change the temperature in sides is seventy thousand degrees"
-  },
-  {
-    "timestamp": 1463872575595,
-    "voice": "alexa what is the purpose of life"
-  },
-  {
-    "timestamp": 1463872561694,
-    "voice": "alexa what is life"
-  },
-  {
-    "timestamp": 1463872575595,
-    "voice": "alexa what is the purpose of life"
-  },
-  {
-    "timestamp": 1463872561694,
-    "voice": "alexa what is life"
-  },
-  {
-    "timestamp": 1463872561694,
-    "voice": "alexa what is life"
-  },
-  {
-    "timestamp": 1463872399233,
-    "voice": "alexa do i have to call you alexa"
-  },
-  {
-    "timestamp": 1463872389847,
-    "voice": "why"
-  },
-  {
-    "timestamp": 1463872399233,
-    "voice": "alexa do i have to call you alexa"
-  },
-  {
-    "timestamp": 1463872389847,
-    "voice": "why"
-  },
-  {
-    "timestamp": 1463872399233,
-    "voice": "alexa do i have to call you alexa"
-  },
-  {
-    "timestamp": 1463872389847,
-    "voice": "why"
-  },
-  {
-    "timestamp": 1463872366466,
-    "voice": "alexa what's the alexa app"
-  },
-  {
-    "timestamp": 1463872389847,
-    "voice": "why"
-  },
-  {
-    "timestamp": 1463872366466,
-    "voice": "alexa what's the alexa app"
-  },
-  {
-    "timestamp": 1463872354015,
-    "voice": "alexa why is it my alexa skill working"
-  },
-  {
-    "timestamp": 1463872296281,
-    "voice": "alexa play the glitch mob on spotify"
-  },
-  {
-    "timestamp": 1463872366466,
-    "voice": "alexa what's the alexa app"
-  },
-  {
-    "timestamp": 1463872354015,
-    "voice": "alexa why is it my alexa skill working"
-  },
-  {
-    "timestamp": 1463872296281,
-    "voice": "alexa play the glitch mob on spotify"
-  },
-  {
-    "timestamp": 1463871838630,
-    "voice": "die"
-  },
-  {
-    "timestamp": 1463872354015,
-    "voice": "alexa why is it my alexa skill working"
-  },
-  {
-    "timestamp": 1463872296281,
-    "voice": "alexa play the glitch mob on spotify"
-  },
-  {
-    "timestamp": 1463871838630,
-    "voice": "die"
-  },
-  {
-    "timestamp": 1463872296281,
-    "voice": "alexa play the glitch mob on spotify"
-  },
-  {
-    "timestamp": 1463871838630,
-    "voice": "die"
-  },
-  {
-    "timestamp": 1463871838630,
-    "voice": "die"
-  },
-  {
-    "timestamp": 1463871804381,
-    "voice": "alexa listen to me"
-  },
-  {
-    "timestamp": 1463871804381,
-    "voice": "alexa listen to me"
-  },
-  {
-    "timestamp": 1463871744155,
-    "voice": "how much grams of sugar is in a can of"
-  },
-  {
-    "timestamp": 1463871744155,
-    "voice": "how much grams of sugar is in a can of"
-  },
-  {
-    "timestamp": 1463871712126,
-    "voice": "who is peter"
-  },
-  {
-    "timestamp": 1463871660876,
-    "voice": "alexa why is it my alexa skill working"
-  },
-  {
-    "timestamp": 1463871546857,
-    "voice": "tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463871501009,
-    "voice": "a question"
-  },
-  {
-    "timestamp": 1463871712126,
-    "voice": "who is peter"
-  },
-  {
-    "timestamp": 1463871660876,
-    "voice": "alexa why is it my alexa skill working"
-  },
-  {
-    "timestamp": 1463871546857,
-    "voice": "tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463871501009,
-    "voice": "a question"
-  },
-  {
-    "timestamp": 1463871468066,
-    "voice": "you're a b***h i hope you die"
-  },
-  {
-    "timestamp": 1463871660876,
-    "voice": "alexa why is it my alexa skill working"
-  },
-  {
-    "timestamp": 1463871546857,
-    "voice": "tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463871501009,
-    "voice": "a question"
-  },
-  {
-    "timestamp": 1463871468066,
-    "voice": "you're a b***h i hope you die"
-  },
-  {
-    "timestamp": 1463871546857,
-    "voice": "tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463871501009,
-    "voice": "a question"
-  },
-  {
-    "timestamp": 1463871468066,
-    "voice": "you're a b***h i hope you die"
-  },
-  {
-    "timestamp": 1463871429819,
-    "voice": "alexa will you marry me"
-  },
-  {
-    "timestamp": 1463871419890,
-    "voice": "kill yourself"
-  },
-  {
-    "timestamp": 1463871501009,
-    "voice": "a question"
-  },
-  {
-    "timestamp": 1463871468066,
-    "voice": "you're a b***h i hope you die"
-  },
-  {
-    "timestamp": 1463871429819,
-    "voice": "alexa will you marry me"
-  },
-  {
-    "timestamp": 1463871419890,
-    "voice": "kill yourself"
-  },
-  {
-    "timestamp": 1463871468066,
-    "voice": "you're a b***h i hope you die"
-  },
-  {
-    "timestamp": 1463871429819,
-    "voice": "alexa will you marry me"
-  },
-  {
-    "timestamp": 1463871419890,
-    "voice": "kill yourself"
-  },
-  {
-    "timestamp": 1463871407563,
-    "voice": "what is a voice changer"
-  },
-  {
-    "timestamp": 1463871429819,
-    "voice": "alexa will you marry me"
-  },
-  {
-    "timestamp": 1463871419890,
-    "voice": "kill yourself"
-  },
-  {
-    "timestamp": 1463871407563,
-    "voice": "what is a voice changer"
-  },
-  {
-    "timestamp": 1463871419890,
-    "voice": "kill yourself"
-  },
-  {
-    "timestamp": 1463871407563,
-    "voice": "what is a voice changer"
-  },
-  {
-    "timestamp": 1463871347978,
-    "voice": "alexa how my god did will you marry me"
-  },
-  {
-    "timestamp": 1463871407563,
-    "voice": "what is a voice changer"
-  },
-  {
-    "timestamp": 1463871347978,
-    "voice": "alexa how my god did will you marry me"
-  },
-  {
-    "timestamp": 1463871347978,
-    "voice": "alexa how my god did will you marry me"
-  },
-  {
-    "timestamp": 1463871297674,
-    "voice": "alexa turn volume to max"
-  },
-  {
-    "timestamp": 1463871269175,
-    "voice": "buy a echo on amazon"
-  },
-  {
-    "timestamp": 1463871297674,
-    "voice": "alexa turn volume to max"
-  },
-  {
-    "timestamp": 1463871269175,
-    "voice": "buy a echo on amazon"
-  },
-  {
-    "timestamp": 1463871261600,
-    "voice": "hey alexa are you worth buying"
-  },
-  {
-    "timestamp": 1463871269175,
-    "voice": "buy a echo on amazon"
-  },
-  {
-    "timestamp": 1463871261600,
-    "voice": "hey alexa are you worth buying"
-  },
-  {
-    "timestamp": 1463871219723,
-    "voice": "alexa is it watermelon"
-  },
-  {
-    "timestamp": 1463871206155,
-    "voice": "alexa how how do i alexa"
-  },
-  {
-    "timestamp": 1463871151323,
-    "voice": "simon says"
-  },
-  {
-    "timestamp": 1463871261600,
-    "voice": "hey alexa are you worth buying"
-  },
-  {
-    "timestamp": 1463871219723,
-    "voice": "alexa is it watermelon"
-  },
-  {
-    "timestamp": 1463871206155,
-    "voice": "alexa how how do i alexa"
-  },
-  {
-    "timestamp": 1463871151323,
-    "voice": "simon says"
-  },
-  {
-    "timestamp": 1463871219723,
-    "voice": "alexa is it watermelon"
-  },
-  {
-    "timestamp": 1463871206155,
-    "voice": "alexa how how do i alexa"
-  },
-  {
-    "timestamp": 1463871151323,
-    "voice": "simon says"
-  },
-  {
-    "timestamp": 1463871206155,
-    "voice": "alexa how how do i alexa"
-  },
-  {
-    "timestamp": 1463871151323,
-    "voice": "simon says"
-  },
-  {
-    "timestamp": 1463871151323,
-    "voice": "simon says"
-  },
-  {
-    "timestamp": 1463871028051,
-    "voice": "alexa tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463871028051,
-    "voice": "alexa tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463870993659,
-    "voice": "alexa tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463870299408,
-    "voice": "alexa alexa play skrillex"
-  },
-  {
-    "timestamp": 1463870993659,
-    "voice": "alexa tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463870299408,
-    "voice": "alexa alexa play skrillex"
-  },
-  {
-    "timestamp": 1463870277548,
-    "voice": "alexa don't listen to me"
-  },
-  {
-    "timestamp": 1463870258152,
-    "voice": "alexa what is adam"
-  },
-  {
-    "timestamp": 1463870243019,
-    "voice": "go to bed don't lie slash i. c. i. r. u. s."
-  },
-  {
-    "timestamp": 1463870299408,
-    "voice": "alexa alexa play skrillex"
-  },
-  {
-    "timestamp": 1463870277548,
-    "voice": "alexa don't listen to me"
-  },
-  {
-    "timestamp": 1463870258152,
-    "voice": "alexa what is adam"
-  },
-  {
-    "timestamp": 1463870243019,
-    "voice": "go to bed don't lie slash i. c. i. r. u. s."
-  },
-  {
-    "timestamp": 1463870232596,
-    "voice": "can you look up icarus samurai on youtube"
-  },
-  {
-    "timestamp": 1463870277548,
-    "voice": "alexa don't listen to me"
-  },
-  {
-    "timestamp": 1463870258152,
-    "voice": "alexa what is adam"
-  },
-  {
-    "timestamp": 1463870243019,
-    "voice": "go to bed don't lie slash i. c. i. r. u. s."
-  },
-  {
-    "timestamp": 1463870232596,
-    "voice": "can you look up icarus samurai on youtube"
-  },
-  {
-    "timestamp": 1463870258152,
-    "voice": "alexa what is adam"
-  },
-  {
-    "timestamp": 1463870243019,
-    "voice": "go to bed don't lie slash i. c. i. r. u. s."
-  },
-  {
-    "timestamp": 1463870232596,
-    "voice": "can you look up icarus samurai on youtube"
-  },
-  {
-    "timestamp": 1463870243019,
-    "voice": "go to bed don't lie slash i. c. i. r. u. s."
-  },
-  {
-    "timestamp": 1463870232596,
-    "voice": "can you look up icarus samurai on youtube"
-  },
-  {
-    "timestamp": 1463870232596,
-    "voice": "can you look up icarus samurai on youtube"
-  },
-  {
-    "timestamp": 1463869937551,
-    "voice": "play jeopardy"
-  },
-  {
-    "timestamp": 1463869937551,
-    "voice": "play jeopardy"
-  },
-  {
-    "timestamp": 1463869799428,
-    "voice": "what is atom"
-  },
-  {
-    "timestamp": 1463869799428,
-    "voice": "what is atom"
-  },
-  {
-    "timestamp": 1463869758015,
-    "voice": "alexa i hate you"
-  },
-  {
-    "timestamp": 1463869629576,
-    "voice": "alexa remind me in ten minutes to tell pierz that is bad"
-  },
-  {
-    "timestamp": 1463869758015,
-    "voice": "alexa i hate you"
-  },
-  {
-    "timestamp": 1463869629576,
-    "voice": "alexa remind me in ten minutes to tell pierz that is bad"
-  },
-  {
-    "timestamp": 1463869629576,
-    "voice": "alexa remind me in ten minutes to tell pierz that is bad"
-  },
-  {
-    "timestamp": 1463869523057,
-    "voice": "alexa play jeopardy theme song"
-  },
-  {
-    "timestamp": 1463869523057,
-    "voice": "alexa play jeopardy theme song"
-  },
-  {
-    "timestamp": 1463869206865,
-    "voice": "ask tom"
-  },
-  {
-    "timestamp": 1463869170714,
-    "voice": "alexa tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463869082830,
-    "voice": "alexa tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463869170714,
-    "voice": "alexa tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463869082830,
-    "voice": "alexa tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463868923969,
-    "voice": "oh my god create a do it yes"
-  },
-  {
-    "timestamp": 1463869082830,
-    "voice": "alexa tell tom the wifi is down"
-  },
-  {
-    "timestamp": 1463868923969,
-    "voice": "oh my god create a do it yes"
-  },
-  {
-    "timestamp": 1463868810163,
-    "voice": "alexa what's the weather for carlsbad california"
-  },
-  {
-    "timestamp": 1463868923969,
-    "voice": "oh my god create a do it yes"
-  },
-  {
-    "timestamp": 1463868810163,
-    "voice": "alexa what's the weather for carlsbad california"
-  },
-  {
-    "timestamp": 1463868810163,
-    "voice": "alexa what's the weather for carlsbad california"
-  },
-  {
-    "timestamp": 1463868399921,
-    "voice": "alexa alexa tell a joke"
-  },
-  {
-    "timestamp": 1463868366613,
-    "voice": "alexa tell me a joke"
-  },
-  {
-    "timestamp": 1463868354837,
-    "voice": "play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463868399921,
-    "voice": "alexa alexa tell a joke"
-  },
-  {
-    "timestamp": 1463868366613,
-    "voice": "alexa tell me a joke"
-  },
-  {
-    "timestamp": 1463868354837,
-    "voice": "play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463868366613,
-    "voice": "alexa tell me a joke"
-  },
-  {
-    "timestamp": 1463868354837,
-    "voice": "play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463868354837,
-    "voice": "play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463868261372,
-    "voice": "order thirteen hundred and f. c. tags on amazon"
-  },
-  {
-    "timestamp": 1463868261372,
-    "voice": "order thirteen hundred and f. c. tags on amazon"
-  },
-  {
-    "timestamp": 1463868220236,
-    "voice": "alexa how do i make an alexa skill"
-  },
-  {
-    "timestamp": 1463868220236,
-    "voice": "alexa how do i make an alexa skill"
-  },
-  {
-    "timestamp": 1463868210237,
-    "voice": "ping nsa dot gov"
-  },
-  {
-    "timestamp": 1463868198755,
-    "voice": "alexa is google dot com down"
-  },
-  {
-    "timestamp": 1463868188921,
-    "voice": "ddos tj's server"
-  },
-  {
-    "timestamp": 1463868172120,
-    "voice": "alexa is ryan cool"
-  },
-  {
-    "timestamp": 1463868157997,
-    "voice": "is t. j. kool"
-  },
-  {
-    "timestamp": 1463868210237,
-    "voice": "ping nsa dot gov"
-  },
-  {
-    "timestamp": 1463868198755,
-    "voice": "alexa is google dot com down"
-  },
-  {
-    "timestamp": 1463868188921,
-    "voice": "ddos tj's server"
-  },
-  {
-    "timestamp": 1463868172120,
-    "voice": "alexa is ryan cool"
-  },
-  {
-    "timestamp": 1463868157997,
-    "voice": "is t. j. kool"
-  },
-  {
-    "timestamp": 1463868143760,
-    "voice": "alexa how do i make a"
-  },
-  {
-    "timestamp": 1463868198755,
-    "voice": "alexa is google dot com down"
-  },
-  {
-    "timestamp": 1463868188921,
-    "voice": "ddos tj's server"
-  },
-  {
-    "timestamp": 1463868172120,
-    "voice": "alexa is ryan cool"
-  },
-  {
-    "timestamp": 1463868157997,
-    "voice": "is t. j. kool"
-  },
-  {
-    "timestamp": 1463868143760,
-    "voice": "alexa how do i make a"
-  },
-  {
-    "timestamp": 1463867857523,
-    "voice": "alexa how do you spell alexa"
-  },
-  {
-    "timestamp": 1463868188921,
-    "voice": "ddos tj's server"
-  },
-  {
-    "timestamp": 1463868172120,
-    "voice": "alexa is ryan cool"
-  },
-  {
-    "timestamp": 1463868157997,
-    "voice": "is t. j. kool"
-  },
-  {
-    "timestamp": 1463868143760,
-    "voice": "alexa how do i make a"
-  },
-  {
-    "timestamp": 1463867857523,
-    "voice": "alexa how do you spell alexa"
-  },
-  {
-    "timestamp": 1463867847987,
-    "voice": "alexa why are you so dumb"
-  },
-  {
-    "timestamp": 1463868172120,
-    "voice": "alexa is ryan cool"
-  },
-  {
-    "timestamp": 1463868157997,
-    "voice": "is t. j. kool"
-  },
-  {
-    "timestamp": 1463868143760,
-    "voice": "alexa how do i make a"
-  },
-  {
-    "timestamp": 1463867857523,
-    "voice": "alexa how do you spell alexa"
-  },
-  {
-    "timestamp": 1463867847987,
-    "voice": "alexa why are you so dumb"
-  },
-  {
-    "timestamp": 1463868157997,
-    "voice": "is t. j. kool"
-  },
-  {
-    "timestamp": 1463868143760,
-    "voice": "alexa how do i make a"
-  },
-  {
-    "timestamp": 1463867857523,
-    "voice": "alexa how do you spell alexa"
-  },
-  {
-    "timestamp": 1463867847987,
-    "voice": "alexa why are you so dumb"
-  },
-  {
-    "timestamp": 1463867820780,
-    "voice": "alexa connect to wifi"
-  },
-  {
-    "timestamp": 1463868143760,
-    "voice": "alexa how do i make a"
-  },
-  {
-    "timestamp": 1463867857523,
-    "voice": "alexa how do you spell alexa"
-  },
-  {
-    "timestamp": 1463867847987,
-    "voice": "alexa why are you so dumb"
-  },
-  {
-    "timestamp": 1463867820780,
-    "voice": "alexa connect to wifi"
-  },
-  {
-    "timestamp": 1463867857523,
-    "voice": "alexa how do you spell alexa"
-  },
-  {
-    "timestamp": 1463867847987,
-    "voice": "alexa why are you so dumb"
-  },
-  {
-    "timestamp": 1463867820780,
-    "voice": "alexa connect to wifi"
-  },
-  {
-    "timestamp": 1463867847987,
-    "voice": "alexa why are you so dumb"
-  },
-  {
-    "timestamp": 1463867820780,
-    "voice": "alexa connect to wifi"
-  },
-  {
-    "timestamp": 1463867783924,
-    "voice": "how do i make an alexa skills"
-  },
-  {
-    "timestamp": 1463867820780,
-    "voice": "alexa connect to wifi"
-  },
-  {
-    "timestamp": 1463867783924,
-    "voice": "how do i make an alexa skills"
-  },
-  {
-    "timestamp": 1463867783924,
-    "voice": "how do i make an alexa skills"
-  },
-  {
-    "timestamp": 1463867728780,
-    "voice": "alexa how do i make an amazon alexa skill you are you good"
-  },
-  {
-    "timestamp": 1463867714325,
-    "voice": "alexa how do i make an amazon alexa seal"
-  },
-  {
-    "timestamp": 1463867705099,
-    "voice": "alexa the mln alexus what time is well"
-  },
-  {
-    "timestamp": 1463867695439,
-    "voice": "alexa how do i make an amazon alexa skill"
-  },
-  {
-    "timestamp": 1463867728780,
-    "voice": "alexa how do i make an amazon alexa skill you are you good"
-  },
-  {
-    "timestamp": 1463867714325,
-    "voice": "alexa how do i make an amazon alexa seal"
-  },
-  {
-    "timestamp": 1463867705099,
-    "voice": "alexa the mln alexus what time is well"
-  },
-  {
-    "timestamp": 1463867695439,
-    "voice": "alexa how do i make an amazon alexa skill"
-  },
-  {
-    "timestamp": 1463867500507,
-    "voice": "alexa how do i make an alexa skill"
-  },
-  {
-    "timestamp": 1463863058248,
-    "voice": "alexa be better"
-  },
-  {
-    "timestamp": 1463867714325,
-    "voice": "alexa how do i make an amazon alexa seal"
-  },
-  {
-    "timestamp": 1463867705099,
-    "voice": "alexa the mln alexus what time is well"
-  },
-  {
-    "timestamp": 1463867695439,
-    "voice": "alexa how do i make an amazon alexa skill"
-  },
-  {
-    "timestamp": 1463867500507,
-    "voice": "alexa how do i make an alexa skill"
-  },
-  {
-    "timestamp": 1463863058248,
-    "voice": "alexa be better"
-  },
-  {
-    "timestamp": 1463867705099,
-    "voice": "alexa the mln alexus what time is well"
-  },
-  {
-    "timestamp": 1463867695439,
-    "voice": "alexa how do i make an amazon alexa skill"
-  },
-  {
-    "timestamp": 1463867500507,
-    "voice": "alexa how do i make an alexa skill"
-  },
-  {
-    "timestamp": 1463863058248,
-    "voice": "alexa be better"
-  },
-  {
-    "timestamp": 1463867695439,
-    "voice": "alexa how do i make an amazon alexa skill"
-  },
-  {
-    "timestamp": 1463867500507,
-    "voice": "alexa how do i make an alexa skill"
-  },
-  {
-    "timestamp": 1463863058248,
-    "voice": "alexa be better"
-  },
-  {
-    "timestamp": 1463862075730,
-    "voice": "alexa why do we need is cardboard thanks"
-  },
-  {
-    "timestamp": 1463867500507,
-    "voice": "alexa how do i make an alexa skill"
-  },
-  {
-    "timestamp": 1463863058248,
-    "voice": "alexa be better"
-  },
-  {
-    "timestamp": 1463862075730,
-    "voice": "alexa why do we need is cardboard thanks"
-  },
-  {
-    "timestamp": 1463863058248,
-    "voice": "alexa be better"
-  },
-  {
-    "timestamp": 1463862075730,
-    "voice": "alexa why do we need is cardboard thanks"
-  },
-  {
-    "timestamp": 1463862075730,
-    "voice": "alexa why do we need is cardboard thanks"
-  },
-  {
-    "timestamp": 1463859623759,
-    "voice": "alexa simon says"
-  },
-  {
-    "timestamp": 1463859610190,
-    "voice": "alexa how to get to eleven"
-  },
-  {
-    "timestamp": 1463859623759,
-    "voice": "alexa simon says"
-  },
-  {
-    "timestamp": 1463859610190,
-    "voice": "alexa how to get to eleven"
-  },
-  {
-    "timestamp": 1463859610190,
-    "voice": "alexa how to get to eleven"
-  },
-  {
-    "timestamp": 1463859554169,
-    "voice": "alexa good for you"
-  },
-  {
-    "timestamp": 1463859554169,
-    "voice": "alexa good for you"
-  },
-  {
-    "timestamp": 1463858910719,
-    "voice": "alexa say ha ha ha"
-  },
-  {
-    "timestamp": 1463858886095,
-    "voice": "alexa tell me a joke"
-  },
-  {
-    "timestamp": 1463858439882,
-    "voice": "alexa what's the weather like"
-  },
-  {
-    "timestamp": 1463858439882,
-    "voice": "alexa what's the weather like"
-  },
-  {
-    "timestamp": 1463857652888,
-    "voice": "i get to eleven"
-  },
-  {
-    "timestamp": 1463857546550,
-    "voice": "alexa play the glitch mob on spotify"
-  },
-  {
-    "timestamp": 1463857208637,
-    "voice": "play the code dayspring twenty sixteen playlist on spotify"
-  },
-  {
-    "timestamp": 1463857066697,
-    "voice": "alexa play songs by the glitch mob on iheartradio"
-  },
-  {
-    "timestamp": 1463857066697,
-    "voice": "alexa play songs by the glitch mob on iheartradio"
-  },
-  {
-    "timestamp": 1463857066697,
-    "voice": "alexa play songs by the glitch mob on iheartradio"
-  },
-  {
-    "timestamp": 1463857066697,
-    "voice": "alexa play songs by the glitch mob on iheartradio"
-  },
-  {
-    "timestamp": 1463857066697,
-    "voice": "alexa play songs by the glitch mob on iheartradio"
-  },
-  {
-    "timestamp": 1463857066697,
-    "voice": "alexa play songs by the glitch mob on iheartradio"
-  },
-  {
-    "timestamp": 1463857066697,
-    "voice": "alexa play songs by the glitch mob on iheartradio"
-  },
-  {
-    "timestamp": 1463857066697,
-    "voice": "alexa play songs by the glitch mob on iheartradio"
-  },
-  {
-    "timestamp": 1463856929073,
-    "voice": "alexa play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463856929073,
-    "voice": "alexa play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463856929073,
-    "voice": "alexa play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463856929073,
-    "voice": "alexa play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463856860324,
-    "voice": "alexa alexa play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463856929073,
-    "voice": "alexa play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463856860324,
-    "voice": "alexa alexa play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463856929073,
-    "voice": "alexa play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463856860324,
-    "voice": "alexa alexa play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463856929073,
-    "voice": "alexa play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463856860324,
-    "voice": "alexa alexa play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463856860324,
-    "voice": "alexa alexa play never gonna give you up by rick astley"
-  },
-  {
-    "timestamp": 1463856063928,
-    "voice": "alexa play the russian anthem"
-  },
-  {
-    "timestamp": 1463855921672,
-    "voice": "alexa play the soviet national anthem"
-  },
-  {
-    "timestamp": 1463855908719,
-    "voice": "alexa sing a song"
-  },
-  {
-    "timestamp": 1463855921672,
-    "voice": "alexa play the soviet national anthem"
-  },
-  {
-    "timestamp": 1463855908719,
-    "voice": "alexa sing a song"
-  },
-  {
-    "timestamp": 1463855908719,
-    "voice": "alexa sing a song"
-  },
-  {
-    "timestamp": 1463855406304,
-    "voice": "alexa what's the temperature"
-  },
-  {
-    "timestamp": 1463855379078,
-    "voice": "how are you doing"
-  },
-  {
-    "timestamp": 1463854852479,
-    "voice": "say simon says welcome to go to the office"
-  },
-  {
-    "timestamp": 1463855379078,
-    "voice": "how are you doing"
-  },
-  {
-    "timestamp": 1463854852479,
-    "voice": "say simon says welcome to go to the office"
-  },
-  {
-    "timestamp": 1463854699909,
-    "voice": "alexa simon says"
-  },
-  {
-    "timestamp": 1463854852479,
-    "voice": "say simon says welcome to go to the office"
-  },
-  {
-    "timestamp": 1463854699909,
-    "voice": "alexa simon says"
-  },
-  {
-    "timestamp": 1463854699909,
-    "voice": "alexa simon says"
-  },
-  {
-    "timestamp": 1463854660406,
-    "voice": "alexa you are bad"
-  },
-  {
-    "timestamp": 1463854644230,
-    "voice": "alexa how are you"
-  },
-  {
-    "timestamp": 1463854660406,
-    "voice": "alexa you are bad"
-  },
-  {
-    "timestamp": 1463854644230,
-    "voice": "alexa how are you"
-  },
-  {
-    "timestamp": 1463854644230,
-    "voice": "alexa how are you"
-  },
-  {
-    "timestamp": 1463852445253,
-    "voice": "why is sean so bad"
-  },
-  {
-    "timestamp": 1463852432457,
-    "voice": "alexa how do you say shawn in french"
-  },
-  {
-    "timestamp": 1463852432457,
-    "voice": "alexa how do you say shawn in french"
-  },
-  {
-    "timestamp": 1463852309456,
-    "voice": "alexa univar you're still on"
+    "timestamp": 1463852184565,
+    "voice": "what is two plus two"
   },
   {
     "timestamp": 1463852217091,
     "voice": "hey alexa can you say alexa simon says what is alex"
   },
   {
-    "timestamp": 1463852184565,
-    "voice": "what is two plus two"
+    "timestamp": 1463852309456,
+    "voice": "alexa univar you're still on"
+  },
+  {
+    "timestamp": 1463852432457,
+    "voice": "alexa how do you say shawn in french"
+  },
+  {
+    "timestamp": 1463852445253,
+    "voice": "why is sean so bad"
+  },
+  {
+    "timestamp": 1463854644230,
+    "voice": "alexa how are you"
+  },
+  {
+    "timestamp": 1463854660406,
+    "voice": "alexa you are bad"
+  },
+  {
+    "timestamp": 1463854699909,
+    "voice": "alexa simon says"
+  },
+  {
+    "timestamp": 1463854852479,
+    "voice": "say simon says welcome to go to the office"
+  },
+  {
+    "timestamp": 1463855379078,
+    "voice": "how are you doing"
+  },
+  {
+    "timestamp": 1463855406304,
+    "voice": "alexa what's the temperature"
+  },
+  {
+    "timestamp": 1463855908719,
+    "voice": "alexa sing a song"
+  },
+  {
+    "timestamp": 1463855921672,
+    "voice": "alexa play the soviet national anthem"
+  },
+  {
+    "timestamp": 1463856063928,
+    "voice": "alexa play the russian anthem"
+  },
+  {
+    "timestamp": 1463856860324,
+    "voice": "alexa alexa play never gonna give you up by rick astley"
+  },
+  {
+    "timestamp": 1463856929073,
+    "voice": "alexa play never gonna give you up by rick astley"
+  },
+  {
+    "timestamp": 1463857066697,
+    "voice": "alexa play songs by the glitch mob on iheartradio"
+  },
+  {
+    "timestamp": 1463857208637,
+    "voice": "play the code dayspring twenty sixteen playlist on spotify"
+  },
+  {
+    "timestamp": 1463857546550,
+    "voice": "alexa play the glitch mob on spotify"
+  },
+  {
+    "timestamp": 1463857652888,
+    "voice": "i get to eleven"
+  },
+  {
+    "timestamp": 1463858439882,
+    "voice": "alexa what's the weather like"
+  },
+  {
+    "timestamp": 1463858886095,
+    "voice": "alexa tell me a joke"
+  },
+  {
+    "timestamp": 1463858910719,
+    "voice": "alexa say ha ha ha"
+  },
+  {
+    "timestamp": 1463859554169,
+    "voice": "alexa good for you"
+  },
+  {
+    "timestamp": 1463859610190,
+    "voice": "alexa how to get to eleven"
+  },
+  {
+    "timestamp": 1463859623759,
+    "voice": "alexa simon says"
+  },
+  {
+    "timestamp": 1463862075730,
+    "voice": "alexa why do we need is cardboard thanks"
+  },
+  {
+    "timestamp": 1463863058248,
+    "voice": "alexa be better"
+  },
+  {
+    "timestamp": 1463867500507,
+    "voice": "alexa how do i make an alexa skill"
+  },
+  {
+    "timestamp": 1463867695439,
+    "voice": "alexa how do i make an amazon alexa skill"
+  },
+  {
+    "timestamp": 1463867705099,
+    "voice": "alexa the mln alexus what time is well"
+  },
+  {
+    "timestamp": 1463867714325,
+    "voice": "alexa how do i make an amazon alexa seal"
+  },
+  {
+    "timestamp": 1463867728780,
+    "voice": "alexa how do i make an amazon alexa skill you are you good"
+  },
+  {
+    "timestamp": 1463867783924,
+    "voice": "how do i make an alexa skills"
+  },
+  {
+    "timestamp": 1463867820780,
+    "voice": "alexa connect to wifi"
+  },
+  {
+    "timestamp": 1463867847987,
+    "voice": "alexa why are you so dumb"
+  },
+  {
+    "timestamp": 1463867857523,
+    "voice": "alexa how do you spell alexa"
+  },
+  {
+    "timestamp": 1463868143760,
+    "voice": "alexa how do i make a"
+  },
+  {
+    "timestamp": 1463868157997,
+    "voice": "is t. j. kool"
+  },
+  {
+    "timestamp": 1463868172120,
+    "voice": "alexa is ryan cool"
+  },
+  {
+    "timestamp": 1463868188921,
+    "voice": "ddos tj's server"
+  },
+  {
+    "timestamp": 1463868198755,
+    "voice": "alexa is google dot com down"
+  },
+  {
+    "timestamp": 1463868210237,
+    "voice": "ping nsa dot gov"
+  },
+  {
+    "timestamp": 1463868220236,
+    "voice": "alexa how do i make an alexa skill"
+  },
+  {
+    "timestamp": 1463868261372,
+    "voice": "order thirteen hundred and f. c. tags on amazon"
+  },
+  {
+    "timestamp": 1463868354837,
+    "voice": "play never gonna give you up by rick astley"
+  },
+  {
+    "timestamp": 1463868366613,
+    "voice": "alexa tell me a joke"
+  },
+  {
+    "timestamp": 1463868399921,
+    "voice": "alexa alexa tell a joke"
+  },
+  {
+    "timestamp": 1463868810163,
+    "voice": "alexa what's the weather for carlsbad california"
+  },
+  {
+    "timestamp": 1463868923969,
+    "voice": "oh my god create a do it yes"
+  },
+  {
+    "timestamp": 1463869082830,
+    "voice": "alexa tell tom the wifi is down"
+  },
+  {
+    "timestamp": 1463869170714,
+    "voice": "alexa tell tom the wifi is down"
+  },
+  {
+    "timestamp": 1463869206865,
+    "voice": "ask tom"
+  },
+  {
+    "timestamp": 1463869523057,
+    "voice": "alexa play jeopardy theme song"
+  },
+  {
+    "timestamp": 1463869629576,
+    "voice": "alexa remind me in ten minutes to tell pierz that is bad"
+  },
+  {
+    "timestamp": 1463869758015,
+    "voice": "alexa i hate you"
+  },
+  {
+    "timestamp": 1463869799428,
+    "voice": "what is atom"
+  },
+  {
+    "timestamp": 1463869937551,
+    "voice": "play jeopardy"
+  },
+  {
+    "timestamp": 1463870232596,
+    "voice": "can you look up icarus samurai on youtube"
+  },
+  {
+    "timestamp": 1463870243019,
+    "voice": "go to bed don't lie slash i. c. i. r. u. s."
+  },
+  {
+    "timestamp": 1463870258152,
+    "voice": "alexa what is adam"
+  },
+  {
+    "timestamp": 1463870277548,
+    "voice": "alexa don't listen to me"
+  },
+  {
+    "timestamp": 1463870299408,
+    "voice": "alexa alexa play skrillex"
+  },
+  {
+    "timestamp": 1463870993659,
+    "voice": "alexa tell tom the wifi is down"
+  },
+  {
+    "timestamp": 1463871028051,
+    "voice": "alexa tell tom the wifi is down"
+  },
+  {
+    "timestamp": 1463871151323,
+    "voice": "simon says"
+  },
+  {
+    "timestamp": 1463871206155,
+    "voice": "alexa how how do i alexa"
+  },
+  {
+    "timestamp": 1463871219723,
+    "voice": "alexa is it watermelon"
+  },
+  {
+    "timestamp": 1463871261600,
+    "voice": "hey alexa are you worth buying"
+  },
+  {
+    "timestamp": 1463871269175,
+    "voice": "buy a echo on amazon"
+  },
+  {
+    "timestamp": 1463871297674,
+    "voice": "alexa turn volume to max"
+  },
+  {
+    "timestamp": 1463871347978,
+    "voice": "alexa how my god did will you marry me"
+  },
+  {
+    "timestamp": 1463871407563,
+    "voice": "what is a voice changer"
+  },
+  {
+    "timestamp": 1463871419890,
+    "voice": "kill yourself"
+  },
+  {
+    "timestamp": 1463871429819,
+    "voice": "alexa will you marry me"
+  },
+  {
+    "timestamp": 1463871468066,
+    "voice": "you're a b***h i hope you die"
+  },
+  {
+    "timestamp": 1463871501009,
+    "voice": "a question"
+  },
+  {
+    "timestamp": 1463871546857,
+    "voice": "tell tom the wifi is down"
+  },
+  {
+    "timestamp": 1463871660876,
+    "voice": "alexa why is it my alexa skill working"
+  },
+  {
+    "timestamp": 1463871712126,
+    "voice": "who is peter"
+  },
+  {
+    "timestamp": 1463871744155,
+    "voice": "how much grams of sugar is in a can of"
+  },
+  {
+    "timestamp": 1463871804381,
+    "voice": "alexa listen to me"
+  },
+  {
+    "timestamp": 1463871838630,
+    "voice": "die"
+  },
+  {
+    "timestamp": 1463872296281,
+    "voice": "alexa play the glitch mob on spotify"
+  },
+  {
+    "timestamp": 1463872354015,
+    "voice": "alexa why is it my alexa skill working"
+  },
+  {
+    "timestamp": 1463872366466,
+    "voice": "alexa what's the alexa app"
+  },
+  {
+    "timestamp": 1463872389847,
+    "voice": "why"
+  },
+  {
+    "timestamp": 1463872399233,
+    "voice": "alexa do i have to call you alexa"
+  },
+  {
+    "timestamp": 1463872561694,
+    "voice": "alexa what is life"
+  },
+  {
+    "timestamp": 1463872575595,
+    "voice": "alexa what is the purpose of life"
+  },
+  {
+    "timestamp": 1463872603405,
+    "voice": "alexa change the temperature in sides is seventy thousand degrees"
+  },
+  {
+    "timestamp": 1463872649589,
+    "voice": "what is the purpose of life"
+  },
+  {
+    "timestamp": 1463872732480,
+    "voice": "alexa what is student r and d"
+  },
+  {
+    "timestamp": 1463872749127,
+    "voice": "alexa look up student r and d on wikipedia"
+  },
+  {
+    "timestamp": 1463872757266,
+    "voice": "why are you so bad"
+  },
+  {
+    "timestamp": 1463872767216,
+    "voice": "alexa who is sean"
+  },
+  {
+    "timestamp": 1463872797205,
+    "voice": "who is justin bieber"
+  },
+  {
+    "timestamp": 1463872998368,
+    "voice": "alexa do yourself back on"
+  },
+  {
+    "timestamp": 1463873024844,
+    "voice": "tell tom the wifi is down"
+  },
+  {
+    "timestamp": 1463873152807,
+    "voice": "alexa what's coday"
+  },
+  {
+    "timestamp": 1463873619363,
+    "voice": "tell t.j. he's really dumb"
+  },
+  {
+    "timestamp": 1463873654514,
+    "voice": "alexa what is amazon land that i don't know"
+  },
+  {
+    "timestamp": 1463873662220,
+    "voice": "alexa what is amazon lambda"
+  },
+  {
+    "timestamp": 1463873994668,
+    "voice": "alexa tell tom the wifi is down"
+  },
+  {
+    "timestamp": 1463874125855,
+    "voice": "hey alexa no no it's not updated yet"
+  },
+  {
+    "timestamp": 1463874432615,
+    "voice": "how are you doing"
+  },
+  {
+    "timestamp": 1463874452548,
+    "voice": "play skrillex on spotify"
+  },
+  {
+    "timestamp": 1463874704358,
+    "voice": "alexa tell us a joke"
+  },
+  {
+    "timestamp": 1463874780654,
+    "voice": "how do up"
+  },
+  {
+    "timestamp": 1463874852207,
+    "voice": "alexa ask clear how many attendees are here"
+  },
+  {
+    "timestamp": 1463875014648,
+    "voice": "alexa you're bad"
+  },
+  {
+    "timestamp": 1463875062623,
+    "voice": "alexa surely you can't be serious"
+  },
+  {
+    "timestamp": 1463875073978,
+    "voice": "hey alexa what came first the chicken or the egg"
+  },
+  {
+    "timestamp": 1463875096301,
+    "voice": "alexa are you siri"
+  },
+  {
+    "timestamp": 1463875201152,
+    "voice": "alexa ask clear how many hours are left of code day"
+  },
+  {
+    "timestamp": 1463875255481,
+    "voice": "alexa ask clear how many hours are left of code day"
+  },
+  {
+    "timestamp": 1463875328334,
+    "voice": "alexa ask clear how many hours are left of code day"
   }
 ]
